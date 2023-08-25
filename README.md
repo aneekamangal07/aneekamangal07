@@ -1,6 +1,6 @@
  ### Hey there! 👋
 <div id="header" align="center">
-  <img src="https://tenor.com/en-IN/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664" />
+  <img src="[https://tenor.com/en-IN/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664](https://tenor.com/3Kua.gif)" />
 </div>
 I'm Aneeka Mangal, a passionate full stack web developer based in Jaipur, Rajasthan. I am pursuing my B.Tech in CS from IIITM Gwalior. Apart from web development my interest also lies in problem-solving and exploring the world of data structures and algorithms.
 
