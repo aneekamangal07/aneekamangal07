@@ -1,5 +1,5 @@
 <div align="center">
-  <p style="font-size: 24px; font-weight: bold; padding: 20px 0;">Hey there! 👋</p>
+  <p style="font-size: '24px'; font-weight: 'bold'; padding: '20px';">Hey there! 👋</p>
 </div>
 
 <div align="center">
