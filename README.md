@@ -1,4 +1,7 @@
-<div align="center" >Hey there! 👋</div>
+<div align="center">
+  <p style="font-size: 24px; font-weight: bold; padding: 20px 0;">Hey there! 👋</p>
+</div>
+
 <div align="center">
   <img src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" width="300px"/>
 </div>
