@@ -11,7 +11,7 @@ based in Jaipur, Rajasthan. I am pursuing my B.Tech in CS from IIITM Gwalior. Ap
 
 ## About Me
 
-- 🔭 I’m currently working on echo: a peer-to-peer video calling application using webRTC.
+- 🔭 I’m currently working on <span font-weight="bold">echo</span>: a peer-to-peer video calling application using webRTC.
 - 🌱 I’m currently learning NextJS.
 - 👯 I’m looking to collaborate on a new project.
 - 📫 Have a look at my portfolio - *[anee](https://anee.vercel.app/)*
