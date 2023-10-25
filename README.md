@@ -12,7 +12,7 @@ based in Jaipur, Rajasthan. I am pursuing my B.Tech in CS from IIITM Gwalior. Ap
 ## About Me
 
 - 🔭 I’m currently working on <span font-weight="bold">echo</span>: a peer-to-peer video calling application using webRTC.
-- 🌱 I’m currently learning NextJS.
+- 🌱 I’m currently learning Golang.
 - 👯 I’m looking to collaborate on a new project.
 - 📫 Have a look at my portfolio - *[anee](https://anee.vercel.app/)*
 - 🙌 Let's connect and collaborate - *[aneekamangal07](https://www.linkedin.com/in/aneeka-mangal-740774232/)*
